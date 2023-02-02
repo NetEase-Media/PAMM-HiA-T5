@@ -17,3 +17,10 @@ The project consists of following parts:
 
 ### Train & Test
 The hyperparameters of PAMM-HiA-T5 are configured in the `args_dict` of `train_dmask.py`. You can change all hyperparameters and run `train_dmask.py` to train PAMM-HiA-T5 on different settings. To test the model, you can change the `ckpt_path`, `dataset`, and `badcase_path` in `test.py` and then run `test.py`.
+
+### PDF
+https://aclanthology.org/2022.coling-1.95/
+
+### Cite
+Wei Huang, Chen Liu, Bo Xiao, Yihua Zhao, Zhaoming Pan, Zhimin Zhang, Xinyun Yang, and Guiquan Liu. 2022. Exploring Label Hierarchy in a Generative Way for Hierarchical Text Classification. In Proceedings of the 29th International Conference on Computational Linguistics, pages 1116–1127, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
+
